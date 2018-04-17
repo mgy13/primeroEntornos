@@ -1,4 +1,4 @@
 # primeroEntornos
 Para aprender Git, commits y ramas
-Modifico la rama máster
+Quito lo escrito en mastar
 Modifico el develop
